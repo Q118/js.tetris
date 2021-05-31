@@ -1,2 +1,2 @@
 # js.tetris
-Classic Tetris built with Modern Javascript 
+## Classic Tetris built with Modern Javascript 
